@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Salma Morkani 👋
 
-<!--
-**SalmaMork/SalmaMork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Data Science student at the University of Milano-Bicocca, Milan**
 
-Here are some ideas to get you started:
+🔬 **Machine Learning Research | Applied AI | Deep Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building intelligent systems, exploring machine learning research, and transforming ideas into working AI applications.
+
+My interests include **Graph Neural Networks, LLM Safety, Computer Vision, Machine Learning Engineering, and Reliable AI**.
+
+## 🔬 Research & Current Work
+
+- **Graph Neural Networks for Stochastic Optimization:** Research at MIND Lab, University of Milano-Bicocca, exploring graph learning for the Two-Stage Stochastic Team Orienteering Problem.
+- **Streaming LLM Safety Guardrails:** Master's thesis investigating early detection of harmful content during language model generation, with attention to detection quality and latency.
+- **Graph Label-Shift Calibration:** Developing and evaluating methods for handling distribution shifts in graph-based machine learning.
+
+## 💻 Selected Projects
+
+- **[Customer Churn Prediction Dashboard](https://github.com/SalmaMork/customer-churn-prediction)** — End-to-end machine learning classification with scikit-learn and an interactive Streamlit application.
+- **[Netflix Recommendation System](https://github.com/SalmaMork/netflix-recommendation-system)** — Recommendation system project.
+- **[Sales Forecast Dashboard](https://github.com/SalmaMork/sales-forecast-dashboard)** — Data science and forecasting project.
+
+## 🛠️ Tools & Technologies
+
+Python · pandas · NumPy · scikit-learn · Streamlit · Jupyter Notebook
+
+## 🌍 About Me
+
+- 📍 Based in Milan, Italy
+- 🎓 MSc Data Science, University of Milano-Bicocca (2025–2027)
+- 💡 Interested in AI/ML engineering internships and research opportunities
+- 🌐 Languages: English, French, Arabic, Spanish, Italian
+
+## 📫 Connect With Me
+
+Explore my projects here on GitHub!
