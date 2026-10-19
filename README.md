@@ -23,7 +23,7 @@ My interests include **Graph Neural Networks, LLM Safety, Computer Vision, Machi
 
 ## 🛠️ Tools & Technologies
 
-Python · pandas · NumPy · scikit-learn · Streamlit · Jupyter Notebook
+Python · PyTorch · Hugging Face Transformers · scikit-learn · FastAPI · Docker · pytest · pandas · NumPy · Streamlit · Jupyter Notebook
 
 ## 🌍 About Me
 
